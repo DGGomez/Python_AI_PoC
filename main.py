@@ -1,2 +1,4 @@
+import pandas as pd
 import numpy as np
-import sklearn.preprocessing
+from sklearn import svm, datasets
+import matplotlib.pyplot as plt
